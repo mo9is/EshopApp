@@ -4,7 +4,7 @@ This is a sample project to show products to buy in a List View and then navigat
 Tech Stack 
 1. **SwiftUI**
 2. **Async/Await**
-3. **MVVM Architecture **
+3. **MVVM Architecture**
 
 Screenshots
 
