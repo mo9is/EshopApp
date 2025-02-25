@@ -1,5 +1,10 @@
 # EshopApp
-This is a sample project in SwiftUI, Async/Await for network calls and fetches data to show you over a List View, which navigates to Detail view. 
+This is a sample project to show products to buy in a List View and then navigates to Detail view if the product is tapped. 
+
+Tech Stack 
+1. **SwiftUI**
+2. **Async/Await**
+3. **MVVM Architecture **
 
 Screenshots
 
